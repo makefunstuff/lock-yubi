@@ -1,0 +1,17 @@
+{
+  "name": "lock-yubi",
+  "version": "0.0.1",
+  "description": "yubikey screen locker",
+  "main": "index.js",
+  "dependencies": {
+    "osx-screensaver": "^2.1.0",
+    "usb-detection": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juri Plugatariov",
+  "license": "MIT"
+}
